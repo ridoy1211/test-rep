@@ -1,2 +1,0 @@
-working directory - stagging area
-hello world
